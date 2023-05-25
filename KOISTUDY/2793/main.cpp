@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("999996\n");
+    printf("109-10=99\n");
 
     return 0;
 }
